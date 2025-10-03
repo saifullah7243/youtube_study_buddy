@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langsmith
+youtube-transcript-api
+langchain-openai
+faiss-cpu
+ipykernel
+python-dotenv
+streamlit
+googletrans
+langchain_community
+deep-translator
+-e .
